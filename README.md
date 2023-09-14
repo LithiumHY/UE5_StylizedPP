@@ -1,3 +1,7 @@
+# Fork Instruction
+This is for myself to learn and try some different PP effects for my own projects.
+Sincerely gratitude for the original owner. Thank you for your selfless sharing!
+
 # Stylized Post Process for Unreal Engine 5
 ![Hatching](https://github.com/ymt3d/UE5-StylizedPostProcess/assets/7782271/3b03273b-85d8-4bd3-bb25-d1a8c0357da8)<br>
 Unreal Engine向けのStylized Post Processです。UE5.1以降で動作します。<br>
